@@ -1,4 +1,4 @@
-# Artifact Mirror
+# Artifact Mirror (Artifact Gateway)
 
 ## Description
 
